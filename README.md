@@ -6,7 +6,7 @@
 
 ### Languages And Framework
 
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p> 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/bishalkharel?tab=repositories&q=&type=&language=javascript)
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/bishalkharel?tab=repositories&q=&type=&language=c)
 [![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/bishalkharel?tab=repositories&q=&type=&language=bash)
