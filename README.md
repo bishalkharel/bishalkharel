@@ -18,5 +18,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://github.com/bishalkharel?tab=repositories&q=&type=&language=FastAPI)
 [![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/bishalkharel?tab=repositories&q=&type=&language=django)
 [![flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/bishalkharel?tab=repositories&q=&type=&language=flask)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/bishalkharel?tab=repositories&q=&type=&language=numpy)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/bishalkharel?tab=repositories&q=&type=&language=pandas)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/bishalkharel?tab=repositories&q=&type=&language=jupyter-notebook)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/bishalkharel?tab=repositories&q=&type=&language=Git)
