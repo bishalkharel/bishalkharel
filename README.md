@@ -27,4 +27,4 @@
 ![Bishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishalkharel&show_icons=true&theme=ocean_dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishalkharel&layout=compa&theme=ocean_darkct)](https://github.com/bishalkharel/bishalkharel)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishalkharel&layout=compa&theme=ocean_dark)
