@@ -25,7 +25,7 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/bishalkharel?tab=repositories&q=&type=&language=Git)
 
 
-![Bishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishalkharel&show_icons=true&theme=ocean_dark)
+![Bishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbshal&show_icons=true&theme=ocean_dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishalkharel&layout=compa&theme=ocean_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbshal&layout=compa&theme=ocean_dark)
