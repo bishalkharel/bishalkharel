@@ -10,7 +10,6 @@
 [![c++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](https://github.com/kbshal?tab=repositories&q=&type=&language=c++)
 [![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/kbshal?tab=repositories&q=&type=&language=nodejs)
 [![R](https://img.shields.io/badge/r-3670A0?style=for-the-badge&logo=r&logoColor=ddc508)](https://github.com/kbshaltab=repositories&q=&type=&language=r)
-[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/kbshal?tab=repositories&q=&type=&language=c)
 [![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/kbshaltab=repositories&q=&type=&language=bash)
 
 
