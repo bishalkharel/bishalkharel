@@ -28,4 +28,4 @@
 ![Bishal's GitHub stats](https://github-readme-stats-g8u60jzf6-kbshal.vercel.app/api?username=kbshal&show_icons=true&theme=ocean_dark)
 
 
-![Top Langs](https://github-readme-stats-g8u60jzf6-kbshal.vercel.app/api/top-langs/?username=kbshal&layout=compa&theme=ocean_dark)
+![Top Langs](https://github-readme-stats-g8u60jzf6-kbshal.vercel.app/api/top-langs/?username=kbshal&layout=compact&theme=ocean_dark)
